@@ -1,0 +1,13 @@
+img{
+   height: 400px; 
+background-color: aqua;
+border: 6px solid #8b8b39;
+}
+button{
+height: 10px;
+width: 150px;
+}
+p{
+background-color: rgb(140, 48, 111);
+}
+li{background-color: rgb(21, 171, 41);}
